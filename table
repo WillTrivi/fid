@@ -25,39 +25,68 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Type</th>
+    <th>Features</th>
+    <th>Noteable</th>
+    <th>Where</th>
+    <th>Subspecies</th>
+    <th>Used</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Dragon</td>
+    <td>4 Legs 2 Wings</td>
+    <td>Toothless</td>
+    <td>How to Train Your Dragon</td>
+    <td>Fae</td>
+    <td>West</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Wyvern</td>
+    <td>2 Legs 2 Wings</td>
+    <td>Drogon</td>
+    <td>Game of Thrones</td>
+    <td>Cockatrice</td>
+    <td>West</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>Drake</td>
+    <td>4 Legs No Wings</td>
+    <td>Glaurung</td>
+    <td>Lord of the Rings</td>
+    <td>Hydra, Kirin</td>
+    <td>West</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>Wyrm</td>
+    <td>No Legs No Wings</td>
+    <td>Sea Serpent</td>
+    <td>Norse Legend</td>
+    <td>Sea Serpent</td>
+    <td>East</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>Amphithere</td>
+    <td>No Legs 2 Wings</td>
+    <td>Kukulkan</td>
+    <td>Mayan Deity</td>
+    <td>None</td>
+    <td>West</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Lung Dragon</td>
+    <td>4 Legs No Wings Very Long</td>
+    <td>Shenron</td>
+    <td>Dragon Ball</td>
+    <td>None</td>
+    <td>East</td>
+  </tr>
+  <tr>
+    <td>Lindwurm</td>
+    <td>2 Legs No Wings</td>
+    <td>Linnormr</td>
+    <td>English Legend</td>
+    <td>Salamander</td>
+    <td>East</td>
   </tr>
 </table>
 
